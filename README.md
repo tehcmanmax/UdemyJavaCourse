@@ -5,4 +5,4 @@ In this repo I provide the solutions to almost all practice challenge. I hope it
 
 My [certificate](https://www.udemy.com/certificate/UC-b2faff29-8363-4c4d-b4ab-a07494017bba/)
 
-- Max
+-- Max
