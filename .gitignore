@@ -116,3 +116,5 @@ nb-configuration.xml
 .idea
 out
 *.xml
+.gitignore
+.git
