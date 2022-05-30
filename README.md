@@ -1,5 +1,5 @@
 ### My first Java course
-I took this course back in 2021. It took me around 10 months to pass it. I had a great exposure to all core principles behind Java programming language.
+I took this course couple years ago. It took me around 10 months to pass it. I had a great exposure to all core principles behind Java programming language.
 
 In this repo I provide the solutions to almost all practice challenge. I hope it will greatly serve others, and be my reference work.
 
